@@ -42,4 +42,16 @@ color: white;
     background: blue;
     color:white;
 }
+h1{
+    text-align: center;
+    color: rgba(93, 64, 224, 0.377);
+    text-transform:capitalize ;
+    text-shadow: 2px 2px 4px rgba(0, 128, 0, 0.377);
+    background:rgba(50, 73, 205, 0.329);
+    padding: 4px;
+    border-radius: 4px;
+}
+span{
+    color: red;
+}
 
