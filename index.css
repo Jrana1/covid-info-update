@@ -1,0 +1,45 @@
+
+.container{
+    display: grid;
+    grid-template-columns: auto ;
+   background-color:whitesmoke;
+   background-repeat: no-repeat;
+   margin-top: 10px;
+   border-radius: 10px;
+   padding: 100px;
+   padding-top: 5px;
+   grid-row-gap:4px;
+}
+
+.grid-item{
+ background-color: rgba(93, 64, 224, 0.377) ;
+border:2px solid white;
+width:75%;
+margin: auto;
+text-align: center;
+padding: 20px;
+border-radius: 5px;
+box-shadow: 5px 5px 10px indianred;
+font-family: sans-serif;
+font-weight: 600px;
+color: white;
+}
+#input-field{
+    border-radius: 4px;
+    padding:5px;
+    border:lavender 2px solid;
+ 
+}
+#btn{
+    padding: 5px;
+    border-radius: 4px;
+    border:2px blue solid;
+    color:blue;
+    font-weight: 500px;
+    margin-top: 4px;
+}
+#btn:hover{
+    background: blue;
+    color:white;
+}
+
